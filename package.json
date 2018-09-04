@@ -1,0 +1,14 @@
+{
+  "name": "RESTAPI",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^4.6.1"
+  },
+  "dependencies": {
+    "restify": "*"
+  }
+}
